@@ -1,0 +1,114 @@
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\MMABooks.mdf
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\MMABooks_log.ldf
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.dll
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.dll
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.xml
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.xml
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomerMaintenance.resources
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\C# 2015\Book applications\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddModifyCustomer.resources
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddModifyCustomer.resources
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomerMaintenance.resources
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\C# 2015\Exercise starts\Chapter 24\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+F:\cecs475sum16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+F:\cecs475sum16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+F:\cecs475sum16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\MMABooks.mdf
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\MMABooks_log.ldf
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.dll
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.xml
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddModifyCustomer.resources
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomerMaintenance.resources
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CopyComplete
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\CommonServiceLocator.dll
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\phala\Documents\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\MMABooks.mdf
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\MMABooks_log.ldf
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\CommonServiceLocator.dll
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.dll
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.xml
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojAssemblyReference.cache
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddModifyCustomer.resources
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomerMaintenance.resources
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CopyComplete
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\phala\OneDrive\CSULB\Spring 2018\CECS 475\Lab\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\MMABooks.mdf
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\MMABooks_log.ldf
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\CommonServiceLocator.dll
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.dll
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.dll
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.dll
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\System.Windows.Interactivity.dll
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.xml
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.xml
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.xml
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojAssemblyReference.cache
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddModifyCustomer.resources
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomerMaintenance.resources
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CopyComplete
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\repositories\Lab5_CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
